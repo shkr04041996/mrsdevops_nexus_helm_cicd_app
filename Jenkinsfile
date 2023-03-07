@@ -32,9 +32,9 @@ pipeline{
                 }
             }
         }
-        stage('docker build & docker push to Nexus Repo'){
+       // stage('docker build & docker push to Nexus Repo'){
 
             
-        }
+       // }
     }        
 }    
